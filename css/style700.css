@@ -1,0 +1,16 @@
+.exchange-container__slide{
+    justify-content: center;
+}
+.plans-container__slider{
+    justify-content: center;
+}
+.footer__info{
+    flex-direction: row;
+}
+.footer__info ul{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__logo{
+    margin-right: 30px;
+}
